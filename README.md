@@ -23,7 +23,6 @@ Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com projetos des
 - **Linguagens de Programação:** Python, C, JavaScript, PHP  
 - **Desenvolvimento Web:** HTML, CSS  
 - **Banco de Dados:** Criação e gerenciamento de bancos relacionais com SQL  
-- **Automação:** Desenvolvimento de scripts para otimização de processos  
 - **Versionamento:** Git e GitHub  
 - **Metodologias de Trabalho:**
   - 📌 **Ágeis:** Scrum, Kanban (vivência prática em projetos com sprints)
@@ -41,6 +40,7 @@ Atuar na área de **Desenvolvimento de Sistemas**, contribuindo com projetos des
 ## 🌐 Idiomas
 
 - **Inglês:** Intermediário
+- **Português:** Nativo
 
 ---
 
